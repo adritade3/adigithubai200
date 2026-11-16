@@ -9,7 +9,7 @@ def home():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>CloudXeus Customer Portal</title>
+        <title>CloudXeus Customer Portal - 1</title>
         <style>
             body {
                 font-family: Arial, sans-serif;
